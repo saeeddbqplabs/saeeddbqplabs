@@ -35,7 +35,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
