@@ -7,7 +7,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 Software Developer passionate about building scalable web apps  
 - ⚡ Specialized in **React, Next.js, and modern frontend development**  
@@ -16,7 +16,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
@@ -47,7 +47,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=muhammadsaeed&theme=radical&border_radius=10" />
@@ -55,7 +55,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 
