@@ -20,7 +20,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,bootstrap,materialui,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,bootstrap,materialui,html,css,javaScript,typeScript" />
 </p>
 
 ### Backend
@@ -30,7 +30,7 @@ I build modern web applications using <b>React, Next.js, and Node.js</b>.
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,claude" />
 </p>
 
 ---
